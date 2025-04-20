@@ -83,7 +83,7 @@ function App() {
                 <h4>Mert İşler</h4>
               </div>
               <div className="team-member" style={{textAlign: 'center'}}>
-                <img src="https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg" alt="Takım Üyesi" />
+                <img src="https://i.hizliresim.com/osikbjx.jpg" alt="Takım Üyesi" />
                 <h4>Yusuf Tokay</h4>
               </div>
               <div className="team-member" style={{textAlign: 'center'}}>
